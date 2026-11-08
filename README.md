@@ -1,3 +1,6 @@
+WOKWI Link = https://wokwi.com/projects/479514269985624065
+
+
 # Arduino Traffic Light Controller
 
 A beginner Arduino project that simulates a traffic light system with a 7-segment countdown display and a switch-controlled Night Mode.
