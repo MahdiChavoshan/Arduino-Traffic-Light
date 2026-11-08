@@ -61,7 +61,7 @@ Timing is handled using Arduino's `millis()` function, allowing the program to c
 
 ## Project Images
 
-Add photos of your circuit and completed project in the `images` folder.
+Add photos of your circuit and completed project in the `Images` folder.
 
 ## Learning Objectives
 
