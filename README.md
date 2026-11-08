@@ -74,6 +74,6 @@ This project was built to practice:
 - Digital input and output
 - Non-blocking timing with `millis()`
 
-## Author
+## Mahdi Chavoshan
 
 Created as a beginner embedded systems learning project.
